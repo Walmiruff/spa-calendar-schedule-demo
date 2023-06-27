@@ -1,4 +1,9 @@
-# SpaCalendarSchedule
+# Schedule with month view
+![Month](./src/assets/images/moth.png)
+
+# Schedule with week view
+![Week](./src/assets/images/week.png)
+# SpaCalendarSchedule 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
