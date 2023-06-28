@@ -3,6 +3,9 @@
 
 # Schedule with week view
 ![Week](./src/assets/images/week.png)
+
+# Schedule with day view
+![Day](./src/assets/images/day.png)
 # SpaCalendarSchedule 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
